@@ -1,4 +1,5 @@
 #dbManager
+  
   This Java application enables the user to manage a mySQL database. The GUI is written in german. It can be used for any MySQL database;
   however, input validation (StringInputValidation Class) for new or updated entries is based on data for persons.
   Its impractical for databases with many tables as the user can only switch between tables and not search for them directly.
