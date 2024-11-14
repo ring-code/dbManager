@@ -14,7 +14,6 @@
   - View history table of added and deleted entries if the according tables have the necessary triggers
   - Disconnect from the database to set up a new connection
   
-  The GUI is written in german. It can be used for any MySQL database; however, input validation (StringInputValidation Class) for new or updated entries is based on data for persons.
-  Its impractical for databases with many tables as the user can only switch between tables and not search for them directly.
+  
   
   Attention: The password/user data is not encrypted. Be cautious when using this for sensitive data!
