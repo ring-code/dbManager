@@ -8,7 +8,7 @@
   - Switch between tables in the database
   - Open another window to search for entries in the currently selected table using a primary key or column data (exact or partial)
   - Open another window to show details for a single entry, edit data for that entry or delete it.
-    This window will also be used to display the entries found via the search function and can switch to next/previous entry in the table or search results
+    This window will also be used to display the entries found via the search function and can switch to the next/previous entry in the table or search results
   - Open another window to add an entry to the currently selected table (inputs will be validated)
   - Delete the selected entry from the current table (without opening another window)
   - View history table of added and deleted entries if the according tables have the necessary triggers
